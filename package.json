@@ -1,0 +1,31 @@
+{
+  "name": "baseclass",
+  "version": "1.0.0",
+  "description": "package to handle db related calls",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshsharma22/baseClass.git"
+  },
+  "author": "harshsharma22",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/harshsharma22/baseClass/issues"
+  },
+  "homepage": "https://github.com/harshsharma22/baseClass#readme",
+  
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "dotenv": "8.2.0",
+    "eslint": "7.13.0",
+    "eslint-config-prettier": "6.15.0",
+    "eslint-config-xo-space": "0.25.0",
+    "eslint-plugin-prettier": "3.1.4",
+    "nodemon": "2.0.6",
+    "prettier": "2.1.2",
+    "then-sleep": "1.0.1"
+  }
+}

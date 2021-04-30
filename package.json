@@ -1,5 +1,5 @@
 {
-  "name": "baseclass",
+  "name": "BaseClass",
   "version": "1.0.0",
   "description": "package to handle db related calls",
   "main": "index.js",
